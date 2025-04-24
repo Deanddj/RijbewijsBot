@@ -2,3 +2,4 @@ chromedriver
 chromedriver.exe
 extracted_data_aanvraag.txt
 extracted_data_ophaal.txt
+.env

@@ -13,7 +13,8 @@ Als er een nieuw moment beschikbaar is die eerder is dan het laatst gecontroleer
   
 ## Installatie
 
-Installeer Python 3.8 of hoger [hier](https://www.python.org/downloads/release/python-3810/)
+#### TIP: Maak een [python virtual environment](https://docs.python.org/3/library/venv.html) aan zodat de requirements zijn geïsoleerd van de rest van je systeem.
+Installeer [Python 3.8](https://www.python.org/downloads/release/python-3810/) of hoger.
 
 Clone deze repository: 
 ```
@@ -30,7 +31,7 @@ Installeer de benodigde pakketten:
 pip install -r requirements.txt
 ```
 
-Vul het .env bestand aan in de hoofdmap met je discord webhook(s)
+Maak een .env bestand aan in de hoofdmap met je discord webhook(s), zie '.env.example'.
 
 ## Gebruik 
 
